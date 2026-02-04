@@ -23,24 +23,6 @@ This project simulates a real-world hiring platform like LinkedIn or Indeed and 
 
 ---
 
-## 📂 Folder Structure
-HireReady/
-├── index.html
-├── jobs.html
-├── job-detail.html
-├── auth.html
-├── company.html
-├── privacy.html
-├── terms.html
-├── support.html
-├── css/
-│ └── style.css
-├── images/
-└── README.md
-
-
----
-
 ## 📄 Pages Included
 
 ### 1️⃣ Home Page (index.html)
@@ -149,5 +131,6 @@ The layout supports:
 ## 👨‍💻 Author
 
 Project created as part of frontend UI practice using HTML & CSS.
+
 
 
